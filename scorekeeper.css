@@ -1,0 +1,39 @@
+.winner{
+    color:#3ba031;
+}
+
+#title{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 5em;
+    color: #eafce8;
+
+}
+
+
+body{
+background: url(https://images.pexels.com/photos/300812/pexels-photo-300812.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+background-size: cover;
+text-align: right;
+}
+
+p{
+    font-weight: 400;
+    font-size: 5em;
+}
+
+#content{
+
+    text-align: center;
+    padding-top: 5%;
+    color: #d2d8e0;
+}
+
+#buttons{
+    padding-top: 3%;
+    padding-right: 3.5%;
+
+}
+.buttongroup{
+    padding-bottom: 3px;
+}
